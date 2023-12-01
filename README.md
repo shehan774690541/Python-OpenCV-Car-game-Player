@@ -20,7 +20,7 @@ This allows a computer game to be controlled automatically, and Python OpenCV wa
 |pytweening    | 1.0.7 |
 
 
-###your environment not connect problem :
+### your environment not connect problem :
 <code>Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass</code>
 <code>.\env\Scripts\Activate.ps1</code>
 
