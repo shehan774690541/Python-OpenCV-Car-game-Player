@@ -8,7 +8,7 @@ from directKeys import ReleaseKey, PressKey, W, A, S, D
 import pyautogui
 from statistics import mean
 
-
+print("start hello word")
 
 def draw_lines(img, lines):
     try:
